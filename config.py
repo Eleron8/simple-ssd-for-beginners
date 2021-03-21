@@ -7,7 +7,7 @@ class Config:
 
 	
     #存放voc数据集的地址
-    VOC_ROOT = '/Users/liuhaoxin/data/VOC/VOCdevkit'
+    VOC_ROOT = '/content/data/VOC/VOCdevkit/VOCdevkit'
 
     #分类的类别数(包括了背景算一类)
     num_classes = 21
